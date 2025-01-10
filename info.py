@@ -25,7 +25,7 @@ MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Radhe_Krishn_Mo
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002487701113').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://KRISTEENN:KRRISTEEN@cluster0.rxom9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://KRISTEEN3:KRISTEEEN@cluster0.ucs20.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
 #---------------------------------------------------------------
@@ -47,23 +47,23 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Suport_Dev77_xD') #Supp
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/HowToVerify_xD/27")
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/HowToVerify_xD/27")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/HowToVerify_xD/27")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/HowToVerify_xD/24")
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/HowToVerify_xD/24")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/HowToVerify_xD/24")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
-SHORTENER_API = environ.get("SHORTENER_API", "25edf7117ac3008e9c20af41cd249cb3085a0713")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'shortner.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "25edf7117ac3008e9c20af41cd249cb3085a0713")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'shortner.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "25edf7117ac3008e9c20af41cd249cb3085a0713")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'shortner.in')
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "72000"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "72000"))
+SHORTENER_API = environ.get("SHORTENER_API", "8b2f30a702e1e807e93d4eb5061f8ce68bdffb0d")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'clickspay.in')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "044552d6219581a7337a122df5f0a75af42e642d")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'clickspay.in')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "93a36f95f8ad27a042c45c1c44176d9ddf6f936b")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'clickspay.in')
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "21600"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "21600"))
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
 QUALITIES = ["HdRip","web-dl" ,"bluray", "hdr", "fhd" , "240p", "360p", "480p", "540p", "720p", "960p", "1080p", "1440p", "2K", "2160p", "4k", "5K", "8K"]
-YEARS = [f'{i}' for i in range(2025, 2002,-1 )]
+YEARS = [f'{i}' for i in range(2028 , 2002,-1 )]
 SEASONS = [f'season {i}'for i in range (1 , 23)]
 REF_PREMIUM = 30
 PREMIUM_POINT = 1500
@@ -111,7 +111,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("FQDN", "tory-benita-mafia-e3faa15d.koyeb.app/")
+URL = environ.get("FQDN", "chosen-candie-msgal-a7e38a6b.koyeb.app/")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
