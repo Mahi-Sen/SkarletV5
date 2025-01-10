@@ -20,7 +20,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', ' ')
 #---------------------------------------------------------------
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8033184870 6433510598').split()]
 USERNAME = environ.get('USERNAME', "Dev77_xD") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002376694176'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002277148856'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Radhe_Krishn_Movies')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002487701113').split()]
 #---------------------------------------------------------------
@@ -111,7 +111,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("FQDN", "chosen-candie-msgal-a7e38a6b.koyeb.app/")
+URL = environ.get("FQDN", "wandering-jocelin-msgal-48a2e1e1.koyeb.app/")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
