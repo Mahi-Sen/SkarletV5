@@ -20,7 +20,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', ' ')
 #---------------------------------------------------------------
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8033184870 6433510598').split()]
 USERNAME = environ.get('USERNAME', "Dev77_xD") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002277148856'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002250886677'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Radhe_Krishn_Movies')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002487701113').split()]
 #---------------------------------------------------------------
@@ -51,12 +51,12 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/HowToVerify_xD/27")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/HowToVerify_xD/27")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/HowToVerify_xD/27")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
-SHORTENER_API = environ.get("SHORTENER_API", "25edf7117ac3008e9c20af41cd249cb3085a0713")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'shortner.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "25edf7117ac3008e9c20af41cd249cb3085a0713")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'shortner.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "25edf7117ac3008e9c20af41cd249cb3085a0713")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'shortner.in')
+SHORTENER_API = environ.get("SHORTENER_API", " ")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", ' ')
+SHORTENER_API2 = environ.get("SHORTENER_API2", " ")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", ' ')
+SHORTENER_API3 = environ.get("SHORTENER_API3", " ")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", ' ')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "72000"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "72000"))
 #---------------------------------------------------------------
