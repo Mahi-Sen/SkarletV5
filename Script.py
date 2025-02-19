@@ -39,7 +39,7 @@ class script(object):
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Dev77_xD'>𝐃𝐞𝐯‎ ‎🔱‎</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : 𝐃𝐞𝐯‎ ‎🔱\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Dev77_xD'>𝐃𝐞𝐯‎ ‎🔱</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : 𝐃𝐞𝐯‎ ‎🔱\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/'>𝐃𝐞𝐯‎ ‎🔱</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -155,8 +155,8 @@ User - {}"""
  ❏ 𝟷80₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
  ❏ 𝟹0𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-💵 ᴜᴘɪ ɪᴅ ➩ <code>dev77xd@upi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZPI.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
+💵 ᴜᴘɪ ɪᴅ ➩ <code>xxxxxxxxx</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fDq.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
  
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
@@ -253,12 +253,12 @@ User - {}"""
 ❏ 𝟷𝟿𝟿₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
 ❏ 𝟹𝟼𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-💵 ᴜᴘɪ ɪᴅ ➩ <code>dev77xd@upi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZPI.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
+💵 ᴜᴘɪ ɪᴅ ➩ <code>xxxxxxxxxxxxx</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fDq.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🧾 ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ʜᴇʀᴇ - <a href='https://t.me/Dev77_xD_Proofs'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🧾 ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ʜᴇʀᴇ - <a href='https://t.me/'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""    
 
@@ -283,12 +283,12 @@ User - {}"""
 ❏ 𝟷𝟿𝟿₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
 ❏ 𝟹𝟼𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-💵 ᴜᴘɪ ɪᴅ ➩ <code>dev77xd@upi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZPI.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
+💵 ᴜᴘɪ ɪᴅ ➩ <code>xxxxxxxxxxx</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fDq.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🧾 ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ʜᴇʀᴇ - <a href='https://t.me/Dev77_xD_Proofs'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🧾 ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ʜᴇʀᴇ - <a href='https://t.me/'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -298,7 +298,7 @@ User - {}"""
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/Dev77_xD'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -316,8 +316,8 @@ User - {}"""
  ❏ 𝟷80₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
  ❏ 𝟹0𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-💵 ᴜᴘɪ ɪᴅ ➩ <code>dev77xd@upi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZPI.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
+💵 ᴜᴘɪ ɪᴅ ➩ <code>xxxxxxx</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fDq.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ ǫʀ</a>
  
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
@@ -371,7 +371,7 @@ User - {}"""
 /set_time_2 {{seconds}} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {{seconds}} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 --------------Verify On Off------------
-/verifyoff {{verify.off code}} - off verification <a href="https://t.me/Dev77_xD">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
+/verifyoff {{verify.off code}} - off verification <a href="https://t.me/">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
 /verifyon - on verification 
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
@@ -391,7 +391,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/Dev77_xD">𝐃𝐞𝐯‎ ‎🔱</a></blockquote>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/">𝐃𝐞𝐯‎ ‎🔱</a></blockquote>
 
 developer : Mr.Jisshu
 </b>""" 
@@ -404,7 +404,7 @@ developer : Mr.Jisshu
 /set_time_2 {seconds} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {seconds} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 --------------Verify On Off------------
-/verifyoff {verify.off code} - off verification <a href="https://t.me/Dev77_xD">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
+/verifyoff {verify.off code} - off verification <a href="https://t.me/">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
 /verifyon - on verification 
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
@@ -422,6 +422,6 @@ developer : Mr.Jisshu
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/Dev77_xD">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/Dev77_xD">ᴀᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/">ᴀᴅᴍɪɴ</a></b>"""
 
-    SOURCECODE = """<b>ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ ᴍʏ ᴀᴅᴍɪɴ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴍʏ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ - @Dev77_xD</b>"""
+    SOURCECODE = """<b>ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ ᴍʏ ᴀᴅᴍɪɴ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴍʏ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ - @</b>"""
