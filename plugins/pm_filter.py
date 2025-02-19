@@ -848,14 +848,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )      
     elif query.data == "seeplans":
         btn = [[
-            InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/Dev77_xD')
+            InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/')
         ],[
-	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/HowToVerify_xD/20')
+	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/')
 	],[
-	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/Dev77_xD'),
+	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/'),
 	    InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
-	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/Dev77_xD_Proofs'),
+	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/'),
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='broze')
 	],[
             InlineKeyboardButton('💸 𝗖𝗹𝗶𝗰𝗸 𝗔𝗹𝗹 𝗣𝗹𝗮𝗻𝘀 & 𝗣𝗿𝗶𝗰𝗲𝘀 💸', callback_data='free')
@@ -873,14 +873,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	)
     elif query.data == "free":
         buttons = [[
-            InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/Dev77_xD')
+            InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/')
         ],[
-	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/HowToVerify_xD/20')
+	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/')
 	],[
-	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/Dev77_xD'),
+	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/'),
 	    InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
-	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/Dev77_xD_Proofs'),
+	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/'),
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='broze')
 	],[
             InlineKeyboardButton('❌ ᴄʟᴏꜱᴇ ❌', callback_data='close_data')
@@ -899,14 +899,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
     #jisshu
     elif query.data == "broze":
        buttons = [[
-	    InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/Dev77_xD')
+	    InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/')
         ],[
-	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/HowToVerify_xD/20')
+	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/')
 	],[
-	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/Dev77_xD'),
+	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/'),
 	    InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
-	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/Dev77_xD_Proofs'),
+	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/'),
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='broze')
        ],[
             InlineKeyboardButton('🍁 𝗖𝗹𝗶𝗰𝗸 𝗔𝗹𝗹 𝗣𝗹𝗮𝗻𝘀 & 𝗣𝗿𝗶𝗰𝗲𝘀 🍁', callback_data='free')
@@ -926,17 +926,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "other":
         buttons = [[
-	    InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/Dev77_xD')
+	    InlineKeyboardButton('📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ', url='https://t.me/')
         ],[
-	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/HowToVerify_xD/20')
+	    InlineKeyboardButton('👀 ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ʜᴇʀᴇ 👀', url='https://t.me/')
 	],[
-	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/Dev77_xD'),
+	    InlineKeyboardButton('💭 ᴀɴʏ ǫᴜᴇʀʏ', url='https://t.me/'),
 	    InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
-	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/Dev77_xD_Proofs'),
+	    InlineKeyboardButton('‼️ ᴄʜᴇᴄᴋ ᴘʀᴏᴏꜰ ‼️', url='https://t.me/'),
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='broze')
 	],[
-            InlineKeyboardButton('☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗢𝘄𝗻𝗲𝗿 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗠𝗼𝗿𝗲', url='https://t.me/Dev77_xD')
+            InlineKeyboardButton('☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗢𝘄𝗻𝗲𝗿 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗠𝗼𝗿𝗲', url='https://t.me/')
         ],[
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='free')
         ]]
@@ -1051,11 +1051,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             disable_web_page_preview = True
 	)
     elif query.data == "mydevelopers":
-        await query.answer("Meet the minds behind this bot:\n\n👨‍💻 @Dev77_xD\n\n❤️ A big thank you for making this bot awesome!", show_alert=True)
+        await query.answer("Meet the minds behind this bot:\n\n👨‍💻 @\n\n❤️ A big thank you for making this bot awesome!", show_alert=True)
  
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('📝 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 📝', url='https://t.me/Dev77_xD')
+            InlineKeyboardButton('📝 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 📝', url='https://t.me/')
         ],[
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about'),
             InlineKeyboardButton('❌ ᴄʟᴏsᴇ ❌', callback_data='close_data')
@@ -1069,7 +1069,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	
     elif query.data == "disclaimer":
             btn = [[
-                    InlineKeyboardButton("📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ", url='https://t.me/Dev77_xD')
+                    InlineKeyboardButton("📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ ", url='https://t.me/')
                ],[
                     InlineKeyboardButton("⇋ ʙᴀᴄᴋ ⇋", callback_data="about")
                   ]]
@@ -1084,7 +1084,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	      InlineKeyboardButton('⇋ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⇌', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
        ],[
               InlineKeyboardButton('⇋ ʜᴏᴍᴇ ⇋', callback_data='features'),
-              InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/Suport_Dev77_xD'),
+              InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/'),
        ]]
        reply_markup = InlineKeyboardMarkup(buttons)
        await client.edit_message_media(
