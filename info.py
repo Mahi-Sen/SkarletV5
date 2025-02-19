@@ -31,7 +31,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
 #---------------------------------------------------------------
 #                                 ===LINKS===
 MICL = environ.get("MICL", "https://t.me/Radhe_Krishn_Movies")
-MGL = environ.get("MGL", "https://t.me/+ClB2p6n8zU9kZDc1")
+MGL = environ.get("MGL", "https://t.me/+jVJHvap7lOllZWM1")
 
 #---------------------------------------------------------------
 #----------- There will be channel id add in all these ---------
