@@ -28,6 +28,12 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://skarlettt:SKARLETTT@cluster0.b1zrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
+
+MONGODB_URI_MAIN = environ.get("MONGODB_URI_MAIN", "")
+MONGODB_URI_FILES = environ.get("MONGODB_URI_FILES", "")
+DATABASE_NAME_MAIN = environ.get("DATABASE_NAME_MAIN", "SkarletV5Main")
+DATABASE_NAME_FILES = environ.get("DATABASE_NAME_FILES", "SkarletV5Files")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
 #                                 ===LINKS===
 MICL = environ.get("MICL", "https://t.me/Radhe_Krishn_Movies")
